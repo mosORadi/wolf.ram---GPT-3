@@ -1,6 +1,6 @@
 [LambdaLabs](https://lambdalabs.com/blog/gpt-3/) 
 
-[Demystifying-LambdaLabs](https://lambdalabs.com/blog/demystifying-gpt-3/)
+[LambdaLabs-DemystifyingGPT-3](https://lambdalabs.com/blog/demystifying-gpt-3/)
 
 [theVerge](https://www.theverge.com/21346343/gpt-3-explainer-openai-examples-errors-agi-potential)
 
@@ -9,6 +9,4 @@
 [PagestLabs](https://pagestlabs.substack.com/p/gpt-3-and-a-typology-of-hype)
 
 [HN](https://news.ycombinator.com/item?id=23923799)
-
-https://www.theverge.com/21346343/gpt-3-explainer-openai-examples-errors-agi-potential
 
