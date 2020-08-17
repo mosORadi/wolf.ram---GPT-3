@@ -10,4 +10,5 @@ https://pagestlabs.substack.com/p/gpt-3-and-a-typology-of-hype
 
 https://news.ycombinator.com/item?id=23923799
 
+https://www.theverge.com/21346343/gpt-3-explainer-openai-examples-errors-agi-potential
 
